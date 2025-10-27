@@ -2,6 +2,7 @@
 
 **JobME MP3 Player** is a desktop-based audio player built in **Java Swing** using the **JLayer MP3 library**.  
 It provides a clean and responsive UI to play, pause, stop, and control the volume of MP3 files.  
+<img width="703" height="249" alt="Capture" src="https://github.com/user-attachments/assets/6d4731ae-6eb5-4e61-98fc-b9d9c8f252fd" />
 
 ---
 
